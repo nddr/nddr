@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nddr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web and Game Development
+- 🌱 I’m currently learning ... Go
 - 📫 How to reach me nathan@hprl.dev
 
 <!---
