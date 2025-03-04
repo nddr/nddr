@@ -27,7 +27,7 @@ As a fullstack developer, I'm comfortable across the entire development spectrum
 
 ## 🔭 Current Focus
 
-I'm currently exploring the possibilities of AI-enhanced user experiences and how they can make applications more intuitive and powerful. Always learning, always building!
+I'm currently exploring multiplayer game server design with Go and my latest product idea [Tastador](https://tastador.com/). Always learning, always building!
 
 ## 📫 Let's Connect
 
