@@ -21,10 +21,6 @@ As a fullstack developer, I'm comfortable across the entire development spectrum
 - Crafting clean, maintainable backend architectures
 - Bridging the gap between design and development
 
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nddr&layout=compact&theme=dracula)](https://github.com/nddr/github-readme-stats)
-
 ## 🔭 Current Focus
 
 I'm currently exploring multiplayer game server design with Go and my latest product idea, [Tastador](https://tastador.com/).
