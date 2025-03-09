@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan 👋
+# Hey, I'm Nathan 👋
 
 I'm a product-focused fullstack developer with 10 years of professional experience and a 20-year journey in programming. My passion lies at the intersection of robust engineering and thoughtful user experience.
 
