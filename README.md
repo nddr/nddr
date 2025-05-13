@@ -1,8 +1,6 @@
 ## Hey, I'm Nathan 👋
 
-I'm a product-focused fullstack developer with 10 years of professional experience and a 20-year journey in programming. My passion lies at the intersection of robust engineering and thoughtful user experience.
-
-I build products that people love to use. With two decades of programming experience and 10 years in professional development, I've learned that great software emerges at the intersection of technical excellence and thoughtful user experience.
+I'm a product-focused fullstack developer with 10 years of professional experience and a 20-year journey in programming. My passion lies at the intersection of engineering and thoughtful user experience. I strive to build products that people love to use.
 
 As a fullstack developer, I'm comfortable across the entire development spectrum but particularly enjoy:
 - Building intuitive, responsive UIs that delight users
